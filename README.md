@@ -1,3 +1,4 @@
+
 # 🚀 ChegeMP | AI/ML Developer | Data Visualization Specialist
 
 <div align="center">
@@ -24,7 +25,7 @@ class Developer:
         self.focus = ["AI/ML Models", "Data Visualization", "Mobile Development"]
         self.languages = ["Python", "Kotlin", "HTML/CSS", "SQL"]
         self.passion = "Creating meaningful data interpretations"
-        
+
     def current_mission(self):
         return "Building AI solutions that make a difference"
 
@@ -61,6 +62,14 @@ print(dev.current_mission())
 - **Google Colab** - ML Model Training
 
 ## 🌟 Featured Projects
+
+### 🛒 Smart Price Calculator
+*Python • GUI • Web Scraping*
+- Python desktop app to fetch live product prices from the web
+- Calculates total costs including tax and shipping
+- Features a clean, interactive Tkinter GUI
+- Demonstrates real-world automation and web scraping
+- [Explore Project →](https://github.com/chegeMP/price-calculator)
 
 ### 🏥 Health System Platform
 *HTML • Healthcare Technology*
@@ -123,7 +132,7 @@ I'm always excited to discuss AI/ML projects, data visualization techniques, or 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chegeMP)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chegemark582@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/markchege4401/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markchege4401/)
 
 </div>
 
