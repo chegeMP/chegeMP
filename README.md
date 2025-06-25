@@ -1,5 +1,5 @@
 
-# 🚀 ChegeMP | AI/ML Developer | Data Visualization Specialist
+# 🚀 ChegeMP | AI/ML Developer & Data Visualization Specialist
 
 <div align="center">
 
@@ -9,129 +9,103 @@
 ![Machine Learning](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**📍 Nairobi, Kenya | 🕐 UTC -12:00**
+**📍 Nairobi, Kenya | 🕐 UTC +3**
 
 </div>
 
 ## 🎯 About Me
 
-A passionate software developer from Nairobi, Kenya, specializing in **AI model development** and **data visualization**. I transform complex data into meaningful insights and build intelligent systems that solve real-world problems.
+Passionate developer specializing in **AI/ML**, **data visualization**, and **cross-platform development**. I build intuitive tools and systems that bring data to life and make AI accessible.
 
 ```python
 class Developer:
-    def __init__(self):
-        self.name = "ChegeMP"
-        self.location = "Nairobi, Kenya"
-        self.focus = ["AI/ML Models", "Data Visualization", "Mobile Development"]
-        self.languages = ["Python", "Kotlin", "HTML/CSS", "SQL"]
-        self.passion = "Creating meaningful data interpretations"
+    name = "ChegeMP"
+    location = "Nairobi, Kenya"
+    skills = ["AI/ML", "Web Scraping", "Mobile Apps", "Visualization"]
+    languages = ["Python", "Kotlin", "HTML/CSS", "SQL"]
 
-    def current_mission(self):
-        return "Building AI solutions that make a difference"
-
-dev = Developer()
-print(dev.current_mission())
+    def mission(self):
+        return "Developing data-driven solutions that deliver real-world impact."
 ```
 
-## 🔬 What I Specialize In
-
-**🤖 Machine Learning** • Developing predictive models for real-world applications  
-**📊 Data Visualization** • Creating intuitive dashboards and meaningful data representations  
-**📱 Mobile Development** • Building Android applications with Kotlin  
-**🏥 Healthcare Technology** • Developing systems for medical and insurance sectors  
-**🔍 Data Analysis** • Extracting actionable insights from complex datasets  
-
-## 🛠️ Tech Arsenal
-
-### Core Technologies
-- **Python** - Machine Learning, Data Analysis, Visualization
-- **Kotlin** - Android Development, Mobile Applications
-- **HTML/CSS** - Web Development, UI/UX
-- **SQL** - Database Management & Queries
-
-### AI/ML Stack
-- **Scikit-learn** - Machine Learning Models
-- **Pandas & NumPy** - Data Manipulation
-- **Matplotlib/Seaborn** - Data Visualization
-- **TensorFlow/PyTorch** - Deep Learning (expanding knowledge)
-
-### Tools & Platforms
-- **Android Studio** - Mobile App Development
-- **Jupyter Notebooks** - Data Science Workflows
-- **Git/GitHub** - Version Control
-- **Google Colab** - ML Model Training
+---
 
 ## 🌟 Featured Projects
 
-### 🛒 Smart Price Calculator
-*Python • GUI • Web Scraping*
-- Python desktop app to fetch live product prices from the web
-- Calculates total costs including tax and shipping
-- Features a clean, interactive Tkinter GUI
-- Demonstrates real-world automation and web scraping
-- [Explore Project →](https://github.com/chegeMP/price-calculator)
+### 🛒 Smart Price Calculator  
+*Python • GUI • Web Scraping*  
+- Desktop app that fetches live product prices from the web  
+- Calculates total cost including tax and shipping  
+- Interactive Tkinter GUI for ease of use  
+- Ideal portfolio demo of automation and GUI design  
+- **Repo**: [chegeMP/price-calculator](https://github.com/chegeMP/price-calculator)
 
-### 🏥 Health System Platform
-*HTML • Healthcare Technology*
-- Developed comprehensive health management system
-- Focus on user-friendly medical data interface
-- Streamlined patient information workflow
-- [Explore Code →](https://github.com/chegeMP/health_system)
+### 🏥 Health System Platform  
+*HTML • Healthcare Tech*  
+- Full-stack health management interface  
+- Features include patient registration and data tracking  
+- Focused on improving medical workflows  
+- **Repo**: [chegeMP/health_system](https://github.com/chegeMP/health_system)
 
-### 💰 Insurance Cost Predictor
-*Python • Machine Learning • Predictive Analytics*
-- Built ML model predicting medical insurance costs
-- Features: Age, gender, region, and family size analysis
-- Delivers personalized cost estimates for users
-- Real-world application in insurance sector
-- [View Project →](https://github.com/chegeMP/Insurance-Cost-Predictor1)
+### 💰 Insurance Cost Predictor  
+*Python • ML Prediction*  
+- Predicts medical insurance costs based on user inputs  
+- Uses demographic factors like age, region, and dependents  
+- Demonstrates regression modeling and analytics  
+- **Repo**: [chegeMP/Insurance-Cost-Predictor1](https://github.com/chegeMP/Insurance-Cost-Predictor1)
 
-### 📱 Imports Mobile App
-*Kotlin • Android Development*
-- Developed Android application for import management
-- Native mobile experience with modern UI
-- Efficient data handling and user interactions
-- [Check Repository →](https://github.com/chegeMP/Imports_by_Wam)
+### 📱 Imports Management App  
+*Kotlin • Android*  
+- Native mobile app to manage import workflows  
+- Clean UI, efficient data handling, user-centric features  
+- **Repo**: [chegeMP/Imports_by_Wam](https://github.com/chegeMP/Imports_by_Wam)
 
-### 🐍 Ma3 Python Project
-*Python • Data Processing*
-- Advanced Python development project
-- Demonstrates clean code practices
-- Efficient algorithms and data structures
-- [View Code →](https://github.com/chegeMP/Ma3)
+### 🐍 Ma3 Python Project  
+*Python • Data Structures & Algorithms*  
+- Complex coding project with optimized logic  
+- Emphasis on clean, maintainable code  
+- **Repo**: [chegeMP/Ma3](https://github.com/chegeMP/Ma3)
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chegeMP&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chegeMP&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chegeMP&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chegeMP&layout=compact&theme=tokyonight&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chegeMP&theme=tokyonight&hide_border=true)
 
 </div>
 
-## 🎯 Current Focus & Goals
+---
 
-- 🔭 **Building**: Advanced ML models for healthcare predictions
-- 🌱 **Learning**: Deep Learning with TensorFlow and computer vision
-- 👯 **Collaborating**: Open to projects in AI/ML and data science
-- 🎯 **Goal**: Contributing to AI solutions that improve lives in Africa
-- 📖 **Sharing**: Planning to write about ML applications in healthcare
+## 🛠️ Tech Stack
 
-## 💡 What Drives Me
+- **Languages**: Python, Kotlin, HTML/CSS, SQL  
+- **ML/DS**: scikit-learn, pandas, NumPy, Matplotlib/Seaborn  
+- **Deep Learning**: TensorFlow, PyTorch (expanding)  
+- **GUI**: Tkinter  
+- **Mobile**: Android Studio, Kotlin  
+- **Tools**: Git, GitHub, Jupyter, Google Colab
 
-I believe in the power of data to solve real problems, especially in sectors like healthcare and finance that directly impact people's lives. My work focuses on making AI accessible and practical for everyday challenges.
+---
 
-## 🤝 Let's Connect & Collaborate
+## 🎯 Current Goals
 
-I'm always excited to discuss AI/ML projects, data visualization techniques, or opportunities to create impactful technology solutions!
+- 🔭 Delivering ML-powered healthcare analytics projects  
+- 🌱 Advancing deep learning skills (TensorFlow, computer vision)  
+- 👯 Collaborating on impactful AI/data initiatives  
+- ✍️ Sharing insights: blog posts on practical ML in healthcare
+
+---
+
+## 🤝 Connect with Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chegeMP)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chegemark582@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chegeMP)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chegemark582@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/markchege4401/)
 
 </div>
