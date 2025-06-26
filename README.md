@@ -15,56 +15,78 @@
 
 ## 🎯 About Me
 
-Passionate developer specializing in **AI/ML**, **data visualization**, and **cross-platform development**. I build intuitive tools and systems that bring data to life and make AI accessible.
+A driven developer building intelligent tools that combine data and design. I specialize in **AI/ML**, **data visualization**, and **mobile/web applications**.
 
 ```python
 class Developer:
-    name = "ChegeMP"
-    location = "Nairobi, Kenya"
-    skills = ["AI/ML", "Web Scraping", "Mobile Apps", "Visualization"]
-    languages = ["Python", "Kotlin", "HTML/CSS", "SQL"]
-
-    def mission(self):
-        return "Developing data-driven solutions that deliver real-world impact."
+    def __init__(self):
+        self.name = "ChegeMP"
+        self.location = "Nairobi, Kenya"
+        self.focus = ["AI/ML Models", "Data Tools", "Mobile Apps", "Web Automation"]
+        self.stack = ["Python", "Kotlin", "SQL", "HTML/CSS"]
+        self.mission = "Solving African problems with practical code"
 ```
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🛒 Smart Price Calculator  
-*Python • GUI • Web Scraping*  
-- Desktop app that fetches live product prices from the web  
-- Calculates total cost including tax and shipping  
-- Interactive Tkinter GUI for ease of use  
-- Ideal portfolio demo of automation and GUI design  
-- **Repo**: [chegeMP/price-calculator](https://github.com/chegeMP/price-calculator)
+### 🛒 Smart Price Calculator
+- Automates product price searches from the web
+- Calculates total cost including tax and delivery
+- Built with Python, SerpAPI, Tkinter
+- [View Repo](https://github.com/chegeMP/price-calculator)
 
-### 🏥 Health System Platform  
-*HTML • Healthcare Tech*  
-- Full-stack health management interface  
-- Features include patient registration and data tracking  
-- Focused on improving medical workflows  
-- **Repo**: [chegeMP/health_system](https://github.com/chegeMP/health_system)
+### 🧾 Gari Tax & Tax Calculator
+- Vehicle and general tax calculator for Kenya
+- Streamlined user input and output display
+- [Gari_tax](https://github.com/chegeMP/Gari_tax) | [Tax_calculator](https://github.com/chegeMP/Tax_calculator)
 
-### 💰 Insurance Cost Predictor  
-*Python • ML Prediction*  
-- Predicts medical insurance costs based on user inputs  
-- Uses demographic factors like age, region, and dependents  
-- Demonstrates regression modeling and analytics  
-- **Repo**: [chegeMP/Insurance-Cost-Predictor1](https://github.com/chegeMP/Insurance-Cost-Predictor1)
+### 🦠 Covid-19 Analyzer
+- Performs statistical insights on COVID-19 datasets
+- Data science notebook with visualizations
+- [Explore](https://github.com/chegeMP/Covid-19_Analysis)
 
-### 📱 Imports Management App  
-*Kotlin • Android*  
-- Native mobile app to manage import workflows  
-- Clean UI, efficient data handling, user-centric features  
-- **Repo**: [chegeMP/Imports_by_Wam](https://github.com/chegeMP/Imports_by_Wam)
+### 🧠 Medical Insurance Predictor
+- Machine learning model to estimate insurance costs
+- User-friendly ML pipeline for real-world use
+- [View Code](https://github.com/chegeMP/Medical-Insurance-Predictor)
 
-### 🐍 Ma3 Python Project  
-*Python • Data Structures & Algorithms*  
-- Complex coding project with optimized logic  
-- Emphasis on clean, maintainable code  
-- **Repo**: [chegeMP/Ma3](https://github.com/chegeMP/Ma3)
+### 🤖 Your Chat (LLM Frontend)
+- AI chat interface frontend
+- Clean user experience for conversational apps
+- [Repo](https://github.com/chegeMP/Your_chat)
+
+### 📱 Imports_by_Wam
+- Kotlin Android app for import tracking
+- Handles client orders and data
+- [See Project](https://github.com/chegeMP/Imports_by_Wam)
+
+### 🚽 Mobile Toilet Booking System
+- Real-time booking system for mobile toilets
+- [Codebase](https://github.com/chegeMP/Mobile_toilets)
+
+### 🧳 Tour Website (PHP)
+- A PHP-powered booking interface for tours
+- [Visit Repo](https://github.com/chegeMP/the_tour)
+
+### 🧾 Budget Planner (Forked)
+- Personal finance planning app
+- [Check Fork](https://github.com/chegeMP/budget-planner-)
+
+### ☕ Coffee Booking App
+- Simple web booking system for cafés
+- [Repo](https://github.com/chegeMP/coffee_booking)
+
+---
+
+## 🛠️ Tech Toolbox
+
+- **Languages**: Python, Kotlin, SQL, HTML, PHP
+- **ML Tools**: scikit-learn, pandas, seaborn, matplotlib
+- **Frameworks**: Flask, Tkinter
+- **Platforms**: Android Studio, Jupyter, GitHub, VS Code
+- **Other Skills**: Web scraping, API integration, backend logic
 
 ---
 
@@ -80,27 +102,16 @@ class Developer:
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Current Goals
 
-- **Languages**: Python, Kotlin, HTML/CSS, SQL  
-- **ML/DS**: scikit-learn, pandas, NumPy, Matplotlib/Seaborn  
-- **Deep Learning**: TensorFlow, PyTorch (expanding)  
-- **GUI**: Tkinter  
-- **Mobile**: Android Studio, Kotlin  
-- **Tools**: Git, GitHub, Jupyter, Google Colab
+- 🤖 Expand on AI chatbot tools and LLM integrations
+- 💼 Build financial and medical analytics dashboards
+- 🌍 Collaborate on African tech solutions
+- ✨ Launch tutorials and demos on GitHub & LinkedIn
 
 ---
 
-## 🎯 Current Goals
-
-- 🔭 Delivering ML-powered healthcare analytics projects  
-- 🌱 Advancing deep learning skills (TensorFlow, computer vision)  
-- 👯 Collaborating on impactful AI/data initiatives  
-- ✍️ Sharing insights: blog posts on practical ML in healthcare
-
----
-
-## 🤝 Connect with Me
+## 🤝 Let’s Connect
 
 <div align="center">
 
@@ -116,8 +127,8 @@ class Developer:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chegeMP&color=blueviolet&style=flat-square&label=Profile+Views)
 
-*"The best way to predict the future is to create it through code and data."*
+*"Turning code into real-world impact, one project at a time."*
 
-**🌍 Building AI solutions from the heart of Africa**
+**🌍 Building AI tools from Kenya to the world**
 
 </div>
